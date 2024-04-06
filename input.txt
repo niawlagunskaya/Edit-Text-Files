@@ -1,0 +1,5 @@
+N: Hello there
+A: Hey! What's up Nia
+N: Nothing much, just practising my coding skills
+A: That is awesome
+N: Yupp I am having so much fun doing it
